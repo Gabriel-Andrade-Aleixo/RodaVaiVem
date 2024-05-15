@@ -7,4 +7,4 @@ https://codepen.io/GABRIEL-ALEIXO/pen/WNBvyJB
 <hr>
 <p>Gif da animação:</p>
 <br>
-<img src="./videolegal.gif" alt="videolegal">
+<img src="./Bola.gif" alt="Bola">
